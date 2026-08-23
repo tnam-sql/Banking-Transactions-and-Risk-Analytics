@@ -320,13 +320,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Your Name** - Initial work
+- **Your Name** - Nguyễn Thành Nam
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Banking data provided by [Source]
+- Banking data provided by Xóm Data
 - Inspired by industry best practices in financial analytics
 
 ---
@@ -335,7 +335,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: nthanhnam.work@gmail.com
 
 ---
 
